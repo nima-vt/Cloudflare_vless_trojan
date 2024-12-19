@@ -1,7 +1,3 @@
-Here is the translation of the provided Chinese README file into English:
-
----
-
 # Cloudflare-workers/pages Proxy Script
 
 ### This project only supports localized deployment
