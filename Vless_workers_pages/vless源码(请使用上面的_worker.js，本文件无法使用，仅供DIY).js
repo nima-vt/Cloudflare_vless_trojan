@@ -14,8 +14,8 @@ let IP1 = 'www.iranserver.com'
 let IP2 = 'dl2.mizbanfa.net'
 let IP3 = 'ftp.parspack.com'
 let IP4 = 'files.rtl-theme.com'
-let IP5 = 'www.visaeurope.at'
-let IP6 = 'www.visa.com.mt'
+let IP5 = 'cloud.iranserver.com'
+let IP6 = 'ae.review.visa.com'
 let IP7 = 'dede.alibabapro.ir'
 
 // https_ip
